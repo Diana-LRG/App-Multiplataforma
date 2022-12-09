@@ -1,0 +1,15 @@
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.deps.json
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\bin\Debug\netstandard2.0\AppXamarin.pdb
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.AssemblyReference.cache
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfoInputs.cache
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.AssemblyInfo.cs
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.csproj.CoreCompileInputs.cache
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.dll
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\refint\AppXamarin.dll
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\AppXamarin.pdb
+C:\Users\DIANA RAMIREZ\source\repos\AppXamarin\AppXamarin\AppXamarin\obj\Debug\netstandard2.0\ref\AppXamarin.dll
